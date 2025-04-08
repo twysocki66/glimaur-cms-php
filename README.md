@@ -1,2 +1,2 @@
 # glimaur-cms-php
-Content management system.
+Internet content management system (CMS) in PHP.
